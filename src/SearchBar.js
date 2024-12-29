@@ -1,7 +1,7 @@
 import React from "react";
 import searchIcon from './resources/search.png'
 import styles from './SearchBar.module.css'
-import mockData from './components/mockData.json';
+import mockData from './mockData.json';
 
 export default function SearchBar() {
 

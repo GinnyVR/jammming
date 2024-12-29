@@ -6,7 +6,6 @@
   display: flex;
   text-align: center;
   justify-content: center;
-  background-color: orange;
 }
 
 .header h1 {
@@ -16,7 +15,7 @@
 }
 
 .container {
-  background-image: url(./resources/230630001018-t1923-med-1.jpeg);
+  background-image: url(./resources/vivid-blurred-colorful-wallpaper-background_58702-4377.avif);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -30,7 +29,8 @@
 }
 
 .hh {
-  min-width: 500px;
+  max-width: 700px;
+  min-width: 400px;
 }
 
 
