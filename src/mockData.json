@@ -1,64 +1,72 @@
 [
-    {
-      "id": "1",
-      "name": "Shape of You",
-      "artist": "Ed Sheeran",
-      "album": "Divide"
-    },
-    {
-      "id": "2",
-      "name": "Blinding Lights",
-      "artist": "The Weeknd",
-      "album": "After Hours"
-    },
-    {
-      "id": "3",
-      "name": "Rolling in the Deep",
-      "artist": "Adele",
-      "album": "21"
-    },
-    {
-      "id": "4",
-      "name": "Bohemian Rhapsody",
-      "artist": "Queen",
-      "album": "A Night at the Opera"
-    },
-    {
-      "id": "5",
-      "name": "Billie Jean",
-      "artist": "Michael Jackson",
-      "album": "Thriller"
-    },
-    {
-      "id": "6",
-      "name": "Someone Like You",
-      "artist": "Adele",
-      "album": "21"
-    },
-    {
-      "id": "7",
-      "name": "Let It Be",
-      "artist": "The Beatles",
-      "album": "Let It Be"
-    },
-    {
-      "id": "8",
-      "name": "Happier Than Ever",
-      "artist": "Billie Eilish",
-      "album": "Happier Than Ever"
-    },
-    {
-      "id": "9",
-      "name": "Hotel California",
-      "artist": "Eagles",
-      "album": "Hotel California"
-    },
-    {
-      "id": "10",
-      "name": "Smells Like Teen Spirit",
-      "artist": "Nirvana",
-      "album": "Nevermind"
-    }
-  ]
-  
-  
+  {
+    "id": "1",
+    "name": "Shape of You",
+    "artist": "Ed Sheeran",
+    "album": "Divide",
+    "uri": "spotify:track:6rqhFgbbKwnb9MLmUQDhG6"
+  },
+  {
+    "id": "2",
+    "name": "Blinding Lights",
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "uri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b"
+  },
+  {
+    "id": "3",
+    "name": "Bad Guy",
+    "artist": "Billie Eilish",
+    "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+    "uri": "spotify:track:2Fxmhks0bxGSBdJ92vM42m"
+  },
+  {
+    "id": "4",
+    "name": "Uptown Funk",
+    "artist": "Mark Ronson feat. Bruno Mars",
+    "album": "Uptown Special",
+    "uri": "spotify:track:32OlwWuMpZ6b0aN2RZOeMS"
+  },
+  {
+    "id": "5",
+    "name": "Rolling in the Deep",
+    "artist": "Adele",
+    "album": "21",
+    "uri": "spotify:track:1c8gk2PeTE04A1pIDH9YMk"
+  },
+  {
+    "id": "6",
+    "name": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "album": "A Night at the Opera",
+    "uri": "spotify:track:7tFiyTwD0nx5a1eklYtX2J"
+  },
+  {
+    "id": "7",
+    "name": "Levitating",
+    "artist": "Dua Lipa",
+    "album": "Future Nostalgia",
+    "uri": "spotify:track:463CkQjx2Zk1yXoBuierM9"
+  },
+  {
+    "id": "8",
+    "name": "Someone Like You",
+    "artist": "Adele",
+    "album": "21",
+    "uri": "spotify:track:4kflIGfjdZJW4ot2ioixTB"
+  },
+  {
+    "id": "9",
+    "name": "Old Town Road",
+    "artist": "Lil Nas X",
+    "album": "7 EP",
+    "uri": "spotify:track:2YpeDb67231RjR0MgVLzsG"
+  },
+  {
+    "id": "10",
+    "name": "Closer",
+    "artist": "The Chainsmokers feat. Halsey",
+    "album": "Collage",
+    "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw"
+  }
+]

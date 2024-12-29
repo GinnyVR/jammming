@@ -19,6 +19,11 @@
     margin: 10px;
 }
 
+.button:hover {
+    background-color: white;
+    border: 2px solid #FF9F50;
+}
+
 .inputStyle {
     height: 60px;
     min-width: 50%;
@@ -26,6 +31,7 @@
     background-color: white;
     border-radius: 16px;
     padding: 20px;
+    
 }
 
 .container {
@@ -45,12 +51,23 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    max-width: 600px;
-    min-width: 300px;
+    max-width: 100%;
+    min-width: 400px;
     background-color: white;
     line-height: 0.5;
     padding: 10px;
     border-radius: 16px;
     margin: 10px 0;
+    
 }
 
+.playlist {
+    height: 60px;
+    
+    border: none;
+    background-color: white;
+    border-radius: 16px;
+    padding: 20px;
+    width: 100%;
+    margin-bottom: 10px;
+}
