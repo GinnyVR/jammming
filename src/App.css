@@ -1,0 +1,62 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  background-color: orange;
+}
+
+.header h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  color: white;
+}
+
+.container {
+  background-image: url(./resources/230630001018-t1923-med-1.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 60px;
+}
+
+.inline {
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.hh {
+  min-width: 500px;
+}
+
+
+.h1 {
+  color: white;
+}
+
+.button {
+  background-color: orange;
+  border-radius: 8px;
+  border-width: 0;
+  color: #333333;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 10px 12px;
+  text-align: center;
+  transition: all 200ms;
+  vertical-align: baseline;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
