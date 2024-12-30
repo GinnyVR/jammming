@@ -27,7 +27,7 @@
   flex-wrap: wrap;
   justify-content: space-between;
   
-  border: 2px solid red;
+  
 }
 
 .hh {
@@ -38,7 +38,7 @@
   flex-grow: 1;
   flex-shrink: 1;
   margin: 0 40px;
-  border: 2px solid blue;
+  
 
 }
 
