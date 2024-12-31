@@ -16,13 +16,13 @@ export default function TrackList({ tracks, onAdd, onRemove, preview }) {
                         <p>Artist: {track.artist}</p>
                         <p>Album: {track.album}</p>
                         
-                        {preview && (
+                        
                         <audio
                         id={track.id}
                         src={track.preview_url}
                         controls
                         onPlay={() => preview(track)}
-                        ></audio>)}
+                        ></audio>
                         
                     </div>
                     <div>
